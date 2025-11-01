@@ -1,1 +1,1 @@
-# Cats-and-a-Mouse
+# Cats-and-a-Mouse This code determines which cat—A or B—will reach a mouse at position `z` first, or if they arrive simultaneously, in which case the mouse escapes. It calculates the absolute distance from each cat to the mouse and returns the winner or `"Mouse C"` if the distances are equal.
